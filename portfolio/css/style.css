@@ -1,0 +1,28 @@
+body {
+  line-height: 1.5;
+  color: white;
+  font-family: 'Playfair Display', serif;
+  background: url('../images/Emilie-24.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  float: right;
+  background: rgba(0,0,0,0.5);
+  padding: 15px;
+  border-radius: 10px;
+  vertical-align: right;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #bfe35b;
+  text-decoration: none;
+}
